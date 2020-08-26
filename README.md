@@ -5,9 +5,9 @@ I used telegram botfather for this cli app
 
 # export env variables
 
-export TELEGRAM_API_TOKEN=<apiToken>
+export TELEGRAM_API_TOKEN= <apiToken>
 
-export TELEGRAM_CHAT_ID=<chat_id>
+export TELEGRAM_CHAT_ID= <chat_id>
 
 
 ## How to generate Telegram apiToken and chatid
