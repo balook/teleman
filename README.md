@@ -2,6 +2,7 @@
 Telegram cli tool for bot notifications
 I used telegram botfather for this cli app
 
+# This tool code is copy of [slackcat](https://github.com/dwisiswant0/slackcat)
 
 # export env variables
 
