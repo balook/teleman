@@ -1,4 +1,4 @@
-module main.go
+module github.com/balook/teleman
 
 go 1.14
 
