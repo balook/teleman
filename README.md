@@ -7,6 +7,7 @@ I used telegram botfather for this cli app
 
 
 export TELEGRAM_API_TOKEN="apiToken"
+
 export TELEGRAM_CHAT_ID="chat_id"
 
 
