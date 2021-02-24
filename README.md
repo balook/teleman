@@ -6,11 +6,12 @@ I used telegram botfather for this cli app
 This tool code is copy of [slackcat](https://github.com/dwisiswant0/slackcat)
 
 # export env variables
-
-
 export TELEGRAM_API_TOKEN="apiToken"
-
 export TELEGRAM_CHAT_ID="chat_id"
+
+add both to bashrc 
+command =>
+~/.bashrc;source ~/.bashrc
 
 
 ## How to Use ?
